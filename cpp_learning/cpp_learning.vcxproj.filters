@@ -24,5 +24,26 @@
     <ClCompile Include="03_variables.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="05_06_keywords_identify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07_integers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08_sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09_real.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_characters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_Escape_character.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
