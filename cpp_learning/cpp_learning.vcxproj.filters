@@ -51,5 +51,14 @@
     <ClCompile Include="14_input.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="15_basic_operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_Assign_operation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_Comparisons.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
