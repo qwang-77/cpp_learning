@@ -72,5 +72,38 @@
     <ClCompile Include="20_Conditional_Operator.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="21_Switch_Function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_while_loop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_while_loop_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_do_while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_do_while_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_for_loop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25_for_loop_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_nested_loop.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_nested_loop_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28_continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
