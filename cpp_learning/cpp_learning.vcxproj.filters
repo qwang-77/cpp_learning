@@ -105,5 +105,11 @@
     <ClCompile Include="28_continue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29_goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
