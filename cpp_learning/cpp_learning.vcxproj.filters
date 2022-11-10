@@ -111,5 +111,23 @@
     <ClCompile Include="30_array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="31_Name_of_Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_Name_of_Arrary_Example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_Name_of_Array_Example_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_Bubble_Sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_2d_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_2d_array_name.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
