@@ -129,5 +129,34 @@
     <ClCompile Include="34_2d_array_name.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33_2d_array_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36_using_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37_passing_values.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_common_forms_function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_Claim_of_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_Separate_coding.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="40.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
