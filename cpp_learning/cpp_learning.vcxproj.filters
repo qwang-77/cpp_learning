@@ -165,6 +165,18 @@
     <ClCompile Include="44_constant_pointers.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="45_pointer_and_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_pointer_and_functions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_pointer_exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
