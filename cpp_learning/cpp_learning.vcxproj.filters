@@ -177,6 +177,24 @@
     <ClCompile Include="47_struct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="48_struct_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_pointer_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_Nested_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51_struct_as_params.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_const_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_example_struct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
