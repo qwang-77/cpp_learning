@@ -195,6 +195,9 @@
     <ClCompile Include="52_example_struct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="52_struct_example_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">

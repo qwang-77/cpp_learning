@@ -305,7 +305,10 @@
     <ClCompile Include="52_const_struct.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="52_example_struct.cpp" />
+    <ClCompile Include="52_example_struct.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="52_struct_example_2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h" />
