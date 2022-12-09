@@ -198,6 +198,15 @@
     <ClCompile Include="52_struct_example_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="53_Global_Zone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_stack_zone.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_heap_area.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
