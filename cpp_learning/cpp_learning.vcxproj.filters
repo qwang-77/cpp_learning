@@ -207,6 +207,33 @@
     <ClCompile Include="55_heap_area.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="56_New_Operator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57_Reference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_Reference_as_params.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59_Reference_as_return.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60_Constant_Reference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61_Function_Default_Param.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62_Placeholder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63_Function_Reload.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64_Function_Reload_Attention.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
