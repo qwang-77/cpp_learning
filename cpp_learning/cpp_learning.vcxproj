@@ -341,7 +341,9 @@
     <ClCompile Include="62_Placeholder.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="63_Function_Reload.cpp" />
+    <ClCompile Include="63_Function_Reload.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="64_Function_Reload_Attention.cpp" />
   </ItemGroup>
   <ItemGroup>
