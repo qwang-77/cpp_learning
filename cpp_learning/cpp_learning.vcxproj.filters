@@ -234,9 +234,42 @@
     <ClCompile Include="64_Function_Reload_Attention.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="65_Function_encapsulation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65_class_and_target_example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66_Class_access_permission.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67_set_private_properties.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="67_Calss_example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68_class_example_circle_point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68_1_point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68_2_circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69_Target_Initializing_and_Clear.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="68_point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="68_circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
