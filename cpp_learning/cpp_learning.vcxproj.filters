@@ -261,6 +261,18 @@
     <ClCompile Include="69_Target_Initializing_and_Clear.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="70_Constructor_Categories_and_Call.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71_Copy_constructor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72_Rules_to_Call_Constructors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73_Copy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">

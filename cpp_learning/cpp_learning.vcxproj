@@ -372,7 +372,17 @@
     <ClCompile Include="68_class_example_circle_point.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="69_Target_Initializing_and_Clear.cpp" />
+    <ClCompile Include="69_Target_Initializing_and_Clear.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="70_Constructor_Categories_and_Call.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="71_Copy_constructor.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="72_Rules_to_Call_Constructors.cpp" />
+    <ClCompile Include="73_Copy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h" />
