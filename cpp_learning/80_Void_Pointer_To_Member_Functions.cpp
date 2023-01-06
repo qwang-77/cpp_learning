@@ -15,6 +15,10 @@ public:
 	int m_age;
 	void showpersonage()
 	{
+		if (this == NULL)
+		{
+			return;
+		}
 		cout << "The age of the person is : " << m_age << endl;
 	}
 };
@@ -28,7 +32,7 @@ void test01()
 }
 
 int main() {
-
+	test01();
 	system("pause");
 	return 0;
 
