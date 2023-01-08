@@ -327,6 +327,36 @@
     <ClCompile Include="91_Inheritance.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="92_Inheritance_Type.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93_Object_Model_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_Order_Of_Constructor_Destructor_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="95_Inherit_Same_Name.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="96_Static_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="97_Multiple_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98_Diamond_Inheritance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99_Polymorphism.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99_Polymorphism_Example_Calculator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100_Pure_Virtual_Function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
