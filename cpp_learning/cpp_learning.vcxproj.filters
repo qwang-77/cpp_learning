@@ -357,6 +357,15 @@
     <ClCompile Include="100_Pure_Virtual_Function.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="100_Pure_Virtual_Function_Example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101_Virtual_Destructor_N_Pure_Virtual_Destructor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102_Polymorphrism_example.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
