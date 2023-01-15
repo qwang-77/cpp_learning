@@ -378,7 +378,19 @@
     <ClCompile Include="106_Read_binary_files.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="107_Project_Staff_Arrangement_System.cpp">
+    <ClCompile Include="107_work_manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_Staff_Arrangement_System.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_employee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_manager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_BOSS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -390,6 +402,21 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="68_circle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107_workmanager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107_worker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107_Employee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107_Manager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107_BOSS.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
