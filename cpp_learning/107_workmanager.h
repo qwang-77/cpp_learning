@@ -1,5 +1,6 @@
 #pragma once // avoid the repeated including of the header files
 #include<iostream> // include the input and output stream file
+#include<fstream> // include the file operation header files
 #include "107_worker.h"
 using namespace std; // use the normal naming space
 
