@@ -28,16 +28,23 @@ int main() {
 			wm.add_emp();
 			break;
 		case 2: // show staff
+			wm.show_emp();
 			break;
 		case 3: //delete staff
+			wm.del_emp();
 			break;
+		;
 		case 4: // modify staff
+			wm.mod_emp();
 			break;
 		case 5: // look for staff
+			wm.find_emp();
 			break;
 		case 6: // sort staff
+			wm.sort_emp();
 			break;
 		case 7: // clear all information
+			wm.clean_file();
 			break;
 		default:
 			system("cls");
