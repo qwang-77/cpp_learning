@@ -393,6 +393,15 @@
     <ClCompile Include="107_BOSS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="108_Template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109_Notes_on_templates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110_Example_Template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
