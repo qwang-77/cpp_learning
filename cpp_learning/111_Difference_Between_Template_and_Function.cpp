@@ -5,8 +5,8 @@ using namespace std;
 // Difference between common function and template
 
 // 1. Common function can transfer the implicit type
-// 2. Template can derive itself, cannot transfer the implicit type
-// 3. Template showing specific type, can transfer the implicit type.
+// 2. Template, if we let it guess the type itself, it cannot transfer the type automatically.
+// 3. Template, if we specify the explicit type, it can transfer the  type.
 
 // Common function
 

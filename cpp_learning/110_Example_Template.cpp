@@ -5,7 +5,6 @@ using namespace std;
 // sort function, a decreasing order, using the selection sort.
 
 template<class T>
-
 void myswap(T& a, T& b)
 {
 	T temp = a;
