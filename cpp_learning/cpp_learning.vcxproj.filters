@@ -405,6 +405,18 @@
     <ClCompile Include="111_Difference_Between_Template_and_Function.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="112_Rules_of_Calling.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113_Template_Limitation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_Class_Template.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="115_Difference_Between_Templates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="40.h">
